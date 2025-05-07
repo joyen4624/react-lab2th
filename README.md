@@ -1,3 +1,9 @@
+Video demo:
+
+
+https://github.com/user-attachments/assets/b205da60-ec23-4295-bd4d-8d0fae882bc4
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
